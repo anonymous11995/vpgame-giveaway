@@ -1,0 +1,46 @@
+.container
+{
+	padding: 0px;
+}
+body
+{
+	background-color: rgb(1,26,33);
+}
+h1,h2,h3,h5,h6
+{
+	color: rgb(242,252,255);
+}
+.title-container
+{
+	text-align: center;
+	padding: 50px;
+}
+.sf-image
+{
+	 display: block;
+    margin: auto;
+    width: 80%;
+}
+ol li
+{
+	color: rgb(242,252,255);
+}
+.card
+{
+	background-color: rgb(2,33,43);
+}
+footer
+{
+	border-top: 1px solid black;
+	padding: 20px;
+}
+
+ul li
+{
+	list-style-type: none;
+
+}
+ul li a
+{
+	color: rgb(232,242,245); 
+}
